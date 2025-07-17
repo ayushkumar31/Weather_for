@@ -105,14 +105,14 @@ const Weather = ({ weather, loading = true }) => {
           <span className="block text-center text-md">
             <div className="mb-1">
               <a
-                href="https://github.com/TanmayPShinde/react-weather-app"
+                href="https://github.com/ayushkumar31"
                 target="_blank"
                 rel="noreferrer"
               >
                 <img src={github} alt="github" className="inline" />{" "}
               </a>
               <a
-                href="http://www.linkedin.com/in/tanmay-p-shinde"
+                href="https://www.linkedin.com/in/ayush-kumar-a2394127b/"
                 target="_blank"
                 rel="noreferrer"
               >
