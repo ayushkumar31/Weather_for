@@ -3,8 +3,7 @@
 ![image](https://github.com/TanmayPShinde/react-weather-app/assets/62463484/8b248de6-bd46-4b07-a3cc-7945d54b14d0)
 
 
-### Demo - Deployed on Render
-[https://weather-dashboard-8y6i.onrender.com/](https://weather-dashboard-8y6i.onrender.com/)
+
 
 ### APIs Used
 [Open Weather APIs](https://openweathermap.org/)
