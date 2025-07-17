@@ -119,7 +119,7 @@ const Weather = ({ weather, loading = true }) => {
                 <img src={linkedin} alt="linkedin" className="inline" />{" "}
               </a>
             </div>
-            - Tanmay
+            - Ayush
           </span>
         </div>
       )}
